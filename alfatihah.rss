@@ -1,58 +1,70 @@
 <rss atom="http://www.w3.org/2005/Atom" itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-	<channel>
-		<title>Tafseer Concise Al Fatihah</title>
-		<author>NAK</author>
-		<description>Tafseer Concise Al Fatihah</description>
-		<link>bayyinahtv.com</link>
-		<language>en-us</language>
-		<lastBuildDate>Sun, 03 May 2020 19:10:54 BST</lastBuildDate>
-		<pubDate>Sun, 03 May 2020 19:10:54 BST</pubDate>
-		<image>
-			<url>http://podcast.bayyinah.com/wp-content/uploads/logo_redbox2.png</url>
-			<title>Tafseer Concise Al Fatihah</title>
-			<link>bayyinahtv.com</link>
-		</image>
-		<item>
-			<description>00. An Introduction - Al-Fatihah - A Deeper Look0:000:00&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bayyinahtv.com/video/4198 &quot;&gt;BayyinahTV Link&lt;/a&gt;&lt;/p&gt;</description>
-			<title>00. An Introduction - Al-Fatihah - A Deeper Look0:000:00 </title>
-			<pubDate>Sun, 03 May 2020 19:10:55 BST</pubDate>
-			<enclosure type="audio/mpeg" url="https://bayyinahtv-website.s3.us-east-1.amazonaws.com/audios/4198.mp3"/>
-			<guid>00. An Introduction - Al-Fatihah - A Deeper Look0:000:00 </guid>
-		</item>
-		<item>
-			<description>01. Al-Fatihah - A Deeper Look0:000:00&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bayyinahtv.com/video/4200 &quot;&gt;BayyinahTV Link&lt;/a&gt;&lt;/p&gt;</description>
-			<title>01. Al-Fatihah - A Deeper Look0:000:00 </title>
-			<pubDate>Sun, 03 May 2020 19:10:56 BST</pubDate>
-			<enclosure type="audio/mpeg" url="https://bayyinahtv-website.s3.us-east-1.amazonaws.com/audios/4200.mp3"/>
-			<guid>01. Al-Fatihah - A Deeper Look0:000:00 </guid>
-		</item>
-		<item>
-			<description>02. Al-Fatihah - A Deeper Look0:000:00&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bayyinahtv.com/video/4199 &quot;&gt;BayyinahTV Link&lt;/a&gt;&lt;/p&gt;</description>
-			<title>02. Al-Fatihah - A Deeper Look0:000:00 </title>
-			<pubDate>Sun, 03 May 2020 19:10:57 BST</pubDate>
-			<enclosure type="audio/mpeg" url="https://bayyinahtv-website.s3.us-east-1.amazonaws.com/audios/4199.mp3"/>
-			<guid>02. Al-Fatihah - A Deeper Look0:000:00 </guid>
-		</item>
-		<item>
-			<description>03. Al-Fatihah - A Deeper Look0:000:00&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bayyinahtv.com/video/4202 &quot;&gt;BayyinahTV Link&lt;/a&gt;&lt;/p&gt;</description>
-			<title>03. Al-Fatihah - A Deeper Look0:000:00 </title>
-			<pubDate>Sun, 03 May 2020 19:10:58 BST</pubDate>
-			<enclosure type="audio/mpeg" url="https://bayyinahtv-website.s3.us-east-1.amazonaws.com/audios/4202.mp3"/>
-			<guid>03. Al-Fatihah - A Deeper Look0:000:00 </guid>
-		</item>
-		<item>
-			<description>04. Al-Fatihah - A Deeper Look0:000:00&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bayyinahtv.com/video/4203 &quot;&gt;BayyinahTV Link&lt;/a&gt;&lt;/p&gt;</description>
-			<title>04. Al-Fatihah - A Deeper Look0:000:00 </title>
-			<pubDate>Sun, 03 May 2020 19:10:59 BST</pubDate>
-			<enclosure type="audio/mpeg" url="https://bayyinahtv-website.s3.us-east-1.amazonaws.com/audios/4203.mp3"/>
-			<guid>04. Al-Fatihah - A Deeper Look0:000:00 </guid>
-		</item>
-		<item>
-			<description>05. Al-Fatihah - A Deeper Look0:000:00&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bayyinahtv.com/video/4204 &quot;&gt;BayyinahTV Link&lt;/a&gt;&lt;/p&gt;</description>
-			<title>05. Al-Fatihah - A Deeper Look0:000:00 </title>
-			<pubDate>Sun, 03 May 2020 19:11:00 BST</pubDate>
-			<enclosure type="audio/mpeg" url="https://bayyinahtv-website.s3.us-east-1.amazonaws.com/audios/4204.mp3"/>
-			<guid>05. Al-Fatihah - A Deeper Look0:000:00 </guid>
-		</item>
-	</channel>
+    <channel>
+        <title>Tafseer Concise Al Fatihah</title>
+        <author>NAK</author>
+        <description>Tafseer Concise Al Fatihah</description>
+        <link>bayyinahtv.com</link>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 03 May 2020 19:10:54 BST</lastBuildDate>
+        <pubDate>Sun, 03 May 2020 19:10:54 BST</pubDate>
+        <image>
+            <url>http://podcast.bayyinah.com/wp-content/uploads/logo_redbox2.png</url>
+            <title>Tafseer Concise Al Fatihah</title>
+            <link>bayyinahtv.com</link>
+        </image>
+        <item>
+            <description>00. An Introduction - Al-Fatihah - A Deeper Look&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bayyinahtv.com/video/4198
+                &quot;&gt;BayyinahTV Link&lt;/a&gt;&lt;/p&gt;
+            </description>
+            <title>00. An Introduction - Al-Fatihah - A Deeper Look</title>
+            <pubDate>Sun, 03 May 2020 19:10:55 BST</pubDate>
+            <enclosure type="audio/mpeg" url="https://bayyinahtv-website.s3.us-east-1.amazonaws.com/audios/4198.mp3"/>
+            <guid>00. An Introduction - Al-Fatihah - A Deeper Look</guid>
+        </item>
+        <item>
+            <description>01. Al-Fatihah - A Deeper Look&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bayyinahtv.com/video/4200
+                &quot;&gt;BayyinahTV Link&lt;/a&gt;&lt;/p&gt;
+            </description>
+            <title>01. Al-Fatihah - A Deeper Look</title>
+            <pubDate>Sun, 03 May 2020 19:10:56 BST</pubDate>
+            <enclosure type="audio/mpeg" url="https://bayyinahtv-website.s3.us-east-1.amazonaws.com/audios/4200.mp3"/>
+            <guid>01. Al-Fatihah - A Deeper Look</guid>
+        </item>
+        <item>
+            <description>02. Al-Fatihah - A Deeper Look&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bayyinahtv.com/video/4199
+                &quot;&gt;BayyinahTV Link&lt;/a&gt;&lt;/p&gt;
+            </description>
+            <title>02. Al-Fatihah - A Deeper Look</title>
+            <pubDate>Sun, 03 May 2020 19:10:57 BST</pubDate>
+            <enclosure type="audio/mpeg" url="https://bayyinahtv-website.s3.us-east-1.amazonaws.com/audios/4199.mp3"/>
+            <guid>02. Al-Fatihah - A Deeper Look</guid>
+        </item>
+        <item>
+            <description>03. Al-Fatihah - A Deeper Look&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bayyinahtv.com/video/4202
+                &quot;&gt;BayyinahTV Link&lt;/a&gt;&lt;/p&gt;
+            </description>
+            <title>03. Al-Fatihah - A Deeper Look</title>
+            <pubDate>Sun, 03 May 2020 19:10:58 BST</pubDate>
+            <enclosure type="audio/mpeg" url="https://bayyinahtv-website.s3.us-east-1.amazonaws.com/audios/4202.mp3"/>
+            <guid>03. Al-Fatihah - A Deeper Look</guid>
+        </item>
+        <item>
+            <description>04. Al-Fatihah - A Deeper Look&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bayyinahtv.com/video/4203
+                &quot;&gt;BayyinahTV Link&lt;/a&gt;&lt;/p&gt;
+            </description>
+            <title>04. Al-Fatihah - A Deeper Look</title>
+            <pubDate>Sun, 03 May 2020 19:10:59 BST</pubDate>
+            <enclosure type="audio/mpeg" url="https://bayyinahtv-website.s3.us-east-1.amazonaws.com/audios/4203.mp3"/>
+            <guid>04. Al-Fatihah - A Deeper Look</guid>
+        </item>
+        <item>
+            <description>05. Al-Fatihah - A Deeper Look&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.bayyinahtv.com/video/4204
+                &quot;&gt;BayyinahTV Link&lt;/a&gt;&lt;/p&gt;
+            </description>
+            <title>05. Al-Fatihah - A Deeper Look</title>
+            <pubDate>Sun, 03 May 2020 19:11:00 BST</pubDate>
+            <enclosure type="audio/mpeg" url="https://bayyinahtv-website.s3.us-east-1.amazonaws.com/audios/4204.mp3"/>
+            <guid>05. Al-Fatihah - A Deeper Look</guid>
+        </item>
+    </channel>
 </rss>
